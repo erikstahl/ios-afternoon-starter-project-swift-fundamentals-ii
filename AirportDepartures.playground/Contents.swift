@@ -1,3 +1,23 @@
+// 
+enum Departures at JFK Airport in NYC: String 
+   Case En Route
+   Case Scheduled
+   Case Canceled 
+   Case Delayed
+
+Struct Airport
+     Let name: destination or arrival 
+Struct Flight
+     Let Date
+Struct Arrival 
+     Let Date
+Struct Terminal
+     Let waiting to arrive on time
+
+Class DepartureBoard 
+    Var departure flights
+    Var current airports 
+     
 import UIKit
 
 
